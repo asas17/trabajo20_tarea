@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SlayerQuestGames/CLionProjects/Trabajo18-2/main.cpp
+iostream
+-
+stdlib.h
+-
+time.h
+-
+

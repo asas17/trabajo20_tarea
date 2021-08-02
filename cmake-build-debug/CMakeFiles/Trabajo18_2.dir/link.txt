@@ -1,0 +1,3 @@
+"D:\clionpls\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Trabajo18_2.dir/objects.a
+D:\mingw\mingw64\bin\ar.exe cr CMakeFiles\Trabajo18_2.dir/objects.a @CMakeFiles\Trabajo18_2.dir\objects1.rsp
+D:\mingw\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\Trabajo18_2.dir/objects.a -Wl,--no-whole-archive -o Trabajo18_2.exe -Wl,--out-implib,libTrabajo18_2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Trabajo18_2.dir\linklibs.rsp
